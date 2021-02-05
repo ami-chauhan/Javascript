@@ -66,20 +66,21 @@ RIGHT SHIFT | >>
 ZERO-FILL RIGHT SHIFT | >>> 
 
 ### Data Type
-1). String    
-- let name = "vaibhavi" 
-2). Number    
-- let n = 1111 
-3). Boolean
-- true or false
-4). Array
-- let cars = ["i-10", "Audi", "BMW"] 
-5). Object     
-- let person = {firstName: "Shilpa", lastName: "Solanki"} 
-6). Undefined  
-- let car;   A variable without a value
-7). Null
-- value which represents “nothing”, “empty” or “value unknown”
+1. String
+let name = "vaibhavi" 
+2. Number
+let n = 1111 
+3. Boolean
+true or false
+4. Array
+let cars = ["i-10", "Audi", "BMW"] 
+5. Object
+let person = {firstName: "Shilpa", lastName: "Solanki"} 
+6. Undefined
+let car;   A variable without a value
+7. Null
+value which represents “nothing”, “empty” or “value unknown”
 
-Reference : [javascript.info](https://javascript.info/)
-
+References : 
+[javascript.info](https://javascript.info/)
+[w3schools](https://www.w3schools.com/)
