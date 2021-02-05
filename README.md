@@ -1,5 +1,7 @@
 # Javascript
-JavaScript Documentation
+JavaScript Documentation <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" height="100"> 
+
+
 
 * *JavaScript (JS)* , is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
@@ -40,6 +42,7 @@ example exponential 2 ** 2 = 4 and 4 ** (1/2) = 2
     
 ##### numeric conversion using unary +
 
+
     let a = "2";
     let b = "3";
     console.log( a + b);    23 //concates
@@ -61,6 +64,22 @@ NOT | ~
 LEFT SHIFT | << 
 RIGHT SHIFT | >> 
 ZERO-FILL RIGHT SHIFT | >>> 
+
+### Data Type
+1). String    
+- let name = "vaibhavi" 
+2). Number    
+- let n = 1111 
+3). Boolean
+- true or false
+4). Array
+- let cars = ["i-10", "Audi", "BMW"] 
+5). Object     
+- let person = {firstName: "Shilpa", lastName: "Solanki"} 
+6). Undefined  
+- let car;   A variable without a value
+7). Null
+- value which represents “nothing”, “empty” or “value unknown”
 
 Reference : [javascript.info](https://javascript.info/)
 
