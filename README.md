@@ -35,7 +35,7 @@ boolean | 11   29 | True   False
 example exponential 2 ** 2 = 4 and 4 ** (1/2) = 2
 
 ##### string concatenation using binary + 
-+ treats and thing betwwen '' single quotes as string 
+'+' treats and thing betwwen '' single quotes as string 
     
     console.log('2'+77); 
     277
