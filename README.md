@@ -3,7 +3,7 @@ JavaScript Documentation <img src="https://upload.wikimedia.org/wikipedia/common
 
 
 
-* *JavaScript (JS)* , is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+* *JavaScript (JS)* , is a programming language that confirms to the ECMAScript specification. JavaScript is high-level, just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
 * JavaScript is used both on the client-side and server-side that allows us to make web pages interactive.
 
@@ -35,7 +35,7 @@ boolean | 11   29 | True   False
 example exponential 2 ** 2 = 4 and 4 ** (1/2) = 2
 
 ##### string concatenation using binary + 
-'+' treats and thing betwwen '' single quotes as string 
+'+' treats anything betwwen ' ' single quotes as string 
     
     console.log('2'+77); 
     277
@@ -77,7 +77,7 @@ let cars = ["i-10", "Audi", "BMW"]
 5. Object
 let person = {firstName: "Shilpa", lastName: "Solanki"} 
 6. Undefined
-let car;   A variable without a value
+let car;  // A variable without a value
 7. Null
 value which represents “nothing”, “empty” or “value unknown”
 
